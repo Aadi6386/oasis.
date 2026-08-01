@@ -4,7 +4,7 @@
 
 This project was created as part of the Oasis Infobyte Web Development Internship.
 
-It is a responsive tribute webpage dedicated to Elon Musk, built to practice HTML and CSS fundamentals.
+It is a responsive tribute webpage dedicated to Elon Musk, built to practice HTML and CSS fundamentals and basics.
 
 ## Features
 
