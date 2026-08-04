@@ -78,13 +78,13 @@ Tribute-Page
 Clone the repository
 
 ```bash
-git clone https://github.com/Aadi6386/REPOSITORY_NAME.git
+git clone https://github.com/Aadi6386/tribute-page.git
 ```
 
 Move into the project folder
 
 ```bash
-cd REPOSITORY_NAME
+cd tribute-page
 ```
 
 Open
