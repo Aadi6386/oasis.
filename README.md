@@ -72,6 +72,11 @@ Tribute-Page
 ```
 
 ---
+# 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=googlechrome)](https://aadi6386.github.io/tribute-page/)
+
+---
 
 # 🚀 Getting Started
 
@@ -156,6 +161,8 @@ Future improvements and optimizations will continue to be added.
 If you found this project useful or liked the design, consider giving this repository a ⭐.
 
 It helps motivate me to build more open-source projects and continue improving my development skills.
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Aadi6386) 
 
 ---
 
