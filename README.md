@@ -5,6 +5,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=googlechrome)](https://aadi6386.github.io/tribute-page/)
 
 ---
 
